@@ -1,0 +1,17 @@
+D:\Work Server\CSharp\CRM02\CRM02\bin\Debug\CRM02.exe.config
+D:\Work Server\CSharp\CRM02\CRM02\bin\Debug\CRM02.exe
+D:\Work Server\CSharp\CRM02\CRM02\bin\Debug\CRM02.pdb
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.csprojAssemblyReference.cache
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.Properties.Resources.resources
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.csproj.GenerateResource.cache
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.csproj.CoreCompileInputs.cache
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.exe
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.pdb
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.Login.resources
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.Manager.resources
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.Staff.resources
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.QuyenLoiKhackHang.resources
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.TheLoaiDoiDiem.resources
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.CreateDataUser.resources
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.KhachHang.resources
+D:\Work Server\CSharp\CRM02\CRM02\obj\Debug\CRM02.ThongTinKhachHang.resources
